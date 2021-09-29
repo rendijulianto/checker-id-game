@@ -80,8 +80,7 @@ if($id > 0 AND $id <= 17) {
     echo "Id Tidak Tersedia \n";
 }
 
-// $checkGame = new GameCheckName;
-// print_r($checkGame->getGame(1,1625352505));
+
 
 
 
